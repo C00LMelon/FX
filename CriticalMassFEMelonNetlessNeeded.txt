@@ -1,16 +1,4 @@
--- Created by Nebula_Zorua --
--- Sans Curse (A Curse of Light) --
--- Custom Arcane Adventures Magic --
--- Wielder: Everybody (Released) --
--- Why the fuck did I make this --
--- I don't even LIKE undertale --
--- what the fuck --
-
--- Discord: Nebula the Zorua#6969
--- Youtube: https://www.youtube.com/channel/UCo9oU9dCw8jnuVLuy4_SATA
-
--- You can change the Magic Circle n stuff down under Customization, at MagicVariant --
-
+ 
 HumanDied = false
 local CountSCIFIMOVIELOL = 1
 function SCIFIMOVIELOL(Part0,Part1,Position,Angle)
